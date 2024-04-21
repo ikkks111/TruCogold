@@ -123,10 +123,7 @@ export default function Secthree() {
                                     </AccordionButton>
                                 </h2>
                                 <AccordionPanel pb={4}><Text>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                                    veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                                    commodo consequat.</Text>
+                                O potencial para ganhar dinheiro no TrucoGold depende da habilidade do jogador e das especificidades da situação de jogo. Recomendamos que os jogadores participem de forma responsável e estejam cientes do risco de perda associado ao jogo.</Text>
                                 </AccordionPanel>
                             </AccordionItem>
                         </Accordion>
