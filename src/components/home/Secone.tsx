@@ -21,7 +21,7 @@ export default function Secone() {
           </Text>
 
 
-          <Button className='btn_bg'>
+          <Button className='btn_bg' as="a" href="https://baxi0002100ossapk.plernberr.com/Trucogoldqudao/Trucogold-channel-1652302.apk" target="_blank">
             <img src="img/btn_bg.png" alt="" className='btn_bg' />
             <span>START YOU JOURNEY</span>
           </Button>
