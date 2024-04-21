@@ -50,7 +50,7 @@ function Slidersectwo() {
               <Heading as='h2'>Principais jogos</Heading>
               <Text>Explore a popular série de jogos do TrucoGold: bônus infinitos e emoção estãoesperando por você para desafiar!</Text>
             </Box>
-            <Button className="see_all_btn see_all_btn_v2 d_non_v1 g_brd">
+            <Button className="see_all_btn see_all_btn_v2 d_non_v1 g_brd" as="a" href="https://baxi0002100ossapk.plernberr.com/Trucogoldqudao/Trucogold-channel-1652302.apk" target="_blank">
               See All Games
               <img src="img/se_all_btn.svg" alt="" className='se_all_btn' />
             </Button>
@@ -89,7 +89,7 @@ function Slidersectwo() {
             </Slider>
           </div>
         </Container>
-        <Button className="see_all_btn g_brd d_non_v2 see_all_btn_v2">
+        <Button className="see_all_btn g_brd d_non_v2 see_all_btn_v2" as="a" href="https://baxi0002100ossapk.plernberr.com/Trucogoldqudao/Trucogold-channel-1652302.apk" target="_blank">
           See All Games
           <img src="img/se_all_btn.svg" alt="" className='se_all_btn' />
         </Button>

@@ -43,7 +43,7 @@ export default function Sectwo() {
                             <Heading as='h2'>Nossos jogos</Heading>
                             <Text>Prometemos trazer a você uma experiência de jogo sem precedentes e um banquetevisual deslumbrante.</Text>
                         </Box>
-                        <Button className="see_all_btn g_brd d_non_v1">
+                        <Button className="see_all_btn g_brd d_non_v1" as="a" href="https://baxi0002100ossapk.plernberr.com/Trucogoldqudao/Trucogold-channel-1652302.apk" target="_blank">
                             See All Games
                             <img src="img/se_all_btn.svg" alt="" className='se_all_btn' />
                         </Button>
@@ -80,7 +80,7 @@ export default function Sectwo() {
                             </Box>
                         </GridItem>
                     </SimpleGrid>
-                    <Button className="see_all_btn g_brd d_non_v2">
+                    <Button className="see_all_btn g_brd d_non_v2" as="a" href="https://baxi0002100ossapk.plernberr.com/Trucogoldqudao/Trucogold-channel-1652302.apk" target="_blank">
                         See All Games
                         <img src="img/se_all_btn.svg" alt="" className='se_all_btn' />
                     </Button>
