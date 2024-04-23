@@ -85,7 +85,7 @@ src="https://www.facebook.com/tr?id=903746144857657&ev=PageView&noscript=1"
               Docs <span>-&gt;</span>
             </h2>
             <p>
-              Find in-depth information about Next.js features and&nbsp;API.
+              Find in-depth information about Nextjs features and&nbsp;API.
             </p>
           </a>
 
