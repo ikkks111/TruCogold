@@ -6,6 +6,7 @@ import Secone from "@/components/home/Secone";
 import Sectwo from "@/components/home/Sectwo";
 import Secthree from "@/components/home/Secthree";
 import Footer from "@/components/Footer";
+import React from 'react';
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -53,9 +54,12 @@ export default function Home() {
   `}
 </script>
 <noscript>
-  <img height="1" width="1" style="display:none"
-       src="https://www.facebook.com/tr?id=903746144857657&ev=PageView&noscript=1"
-  />
+  <img
+  height="1"
+  width="1"
+  style={{ display: 'none' }}
+  src="https://www.facebook.com/tr?id=903746144857657&ev=PageView&noscript=1"
+/>
 </noscript>
 
 
